@@ -49,3 +49,5 @@ I Liceum Ogólnokształcące: In process high school education with a focus on s
 - English: Intermediate proficiency.
 - German: Novice level.
 - French: Novice level.
+
+![My photo](img/20230916_211742.jpg)
